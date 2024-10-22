@@ -1,5 +1,5 @@
 # Hi, I'm Robin 👋
-🎓 Studying Data Engineering at Texas A&M University<br>🔭 Currently working on data engineering projects and exploring new tools<br>🌱 Learning Data Modeling and Hadoop<br>💬 Ask me about anything data engineering related<br>😄 Pronouns: he/him
+🎓 Studying Data Engineering at Texas A&M University<br>🔭 Currently working on data engineering projects and exploring new tools<br>🌱 Learning Data Modeling and Snowflake<br>💬 Ask me about anything data engineering related<br>😄 Pronouns: he/him
 
 
 ## 🌐 Socials:
